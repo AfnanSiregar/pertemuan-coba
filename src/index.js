@@ -10,5 +10,6 @@ root.render(
         <Welcome name="Muzayyin" umur="21" />
         <Welcome name="Burhan" umur="20" />
         <Welcome name="Rozin" umur="21" />
+        <Welcome name="Habib" umur="22" />  
     </>
 );
